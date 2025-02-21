@@ -1,7 +1,7 @@
 console.log("Hello world!");
 
-function addNumbers(a, b) {
-  return a + b;
+function multiplyNumbers(a, b) {
+  return a - b;
 }
 
-console.log(addNumbers(4, 5));
+console.log(multiplyNumbers(4, 5));
